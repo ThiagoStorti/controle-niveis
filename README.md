@@ -7,16 +7,15 @@ Sistema desenvolvido em Python para simular o monitoramento de um reservatório,
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/tartley/colorama/master/docs/colorama.png" width="50" alt="Colorama"/>
-</p>
+  </p>
 
 📊 Níveis do reservatório
 Nível / Situação / Cor
-1 / Muito baixo (crítico) / Vermelho
-2 / Baixo / Amarelo
-3 / Médio / Verde
-4 / Alto / Ciano
-5 / Muito alto (alerta) / Azul
+- 1 / Muito baixo (crítico) / Vermelho
+- 2 / Baixo / Amarelo
+- 3 / Médio / Verde
+- 4 / Alto / Ciano
+- 5 / Muito alto (alerta) / Azul
 
 ▶️ Como executar
 
@@ -30,5 +29,5 @@ python controle_agua.py
 Listas, funções, estruturas condicionais, repetição e biblioteca externa.
 
 👨‍💻 Autor
-Thiago Storti
+Thiago Storti Barbosa
 Curso Técnico em Desenvolvimento de Sistemas
